@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ExemplosSerializacao
 {
-    public partial class Form1 : Form
+    public partial class frm_serializacao : Form
     {
-        public Form1()
+        public frm_serializacao()
         {
             InitializeComponent();
         }
