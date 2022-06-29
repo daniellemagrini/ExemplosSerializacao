@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Paciente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <nome>TESTE</nome>
+  <data_nascimento>01/01/2000</data_nascimento>
+  <cpf>15487958469</cpf>
+</Paciente>
